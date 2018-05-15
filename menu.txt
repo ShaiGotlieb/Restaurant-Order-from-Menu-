@@ -1,0 +1,48 @@
+Avocado Eggroll
+Starter
+22.5
+House Bread
+Starter
+14.5
+Greek Salad
+Starter
+28
+French Fries
+Starter
+16
+Pizza
+Main
+39
+Hamburger
+Main
+47.5
+Pasta Pesto
+Main
+42
+Tuna Sandwich
+Main
+31
+Ice Cream
+Desert
+16.5
+Cheese Cake
+Desert
+19.5
+Fruit Salad
+Desert
+11.5
+Chocolate Fingers
+Desert
+12
+Water
+Drink
+7.5
+Coffee
+Drink
+11
+Coca-Cola
+Drink
+11.5
+Ice Tea
+Drink
+12
